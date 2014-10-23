@@ -7,7 +7,7 @@
     "type": "git",
     "url": "https://github.com/sparkfun/RedBot.git"
   },
-  "src": "Arduino/libraries/RedBot",
+  "include": "Arduino/libraries/RedBot",
   "examples": "Arduino/example code/*/*.ino",
   "frameworks": "arduino",
   "platforms": "atmelavr"
